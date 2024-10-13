@@ -6,9 +6,9 @@
 calculateTotalTarget(startDate, endDate, totalAnnualTarget)
 # Parameters:
 
-# startDate: A string representing the start date of the period (e.g., '2024-01-01').
-# endDate: A string representing the end date of the period (e.g., '2024-03-31').
-# totalAnnualTarget: A numeric value representing the total target for the year that needs to be distributed across the months.
+ startDate: A string representing the start date of the period (e.g., '2024-01-01').
+ endDate: A string representing the end date of the period (e.g., '2024-03-31').
+ totalAnnualTarget: A numeric value representing the total target for the year that needs to be distributed across the months.
 
 # Functionality:
 
